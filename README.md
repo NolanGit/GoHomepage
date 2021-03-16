@@ -12,6 +12,8 @@
 
 - 🤖如果你更喜欢Python和Flask作为后端，欢迎关注功能稳定的【[PersonalHomepage](https://github.com/NolanGit/PersonalHomepage)】！
 
+- 💼字节跳动社招内推直接戳[此链接](https://job.toutiao.com/s/e8cukQt)投递即可，校招内推码：AWN958P，欢迎转发扩散！
+
 ## 待实现的功能
 
 - 多用户登录
