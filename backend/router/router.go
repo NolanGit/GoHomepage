@@ -9,8 +9,8 @@ import (
 
 func SetupRouter() *gin.Engine {
 	router := gin.Default()
-	router.LoadHTMLGlob("./dist/index.html")
-	router.Static("/static", "./dist/static")
+	router.LoadHTMLGlob("../dist/index.html")
+	router.Static("/static", "../dist/static")
 	router.Use(cors.Default()) // 允许全部域名
 	router.GET("/", func(c *gin.Context) {
 		c.HTML(
